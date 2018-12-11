@@ -1,0 +1,330 @@
+ccode	leader	eindate	eoutdate
+2	Nixon	20jan1969	09aug1974
+2	Ford	09aug1974	20jan1977
+2	Carter	20jan1977	20jan1981
+20	Pierre Trudeau	20apr1968	04jun1979
+20	Clark	04jun1979	03mar1980
+31	Pindling	16jan1967	21aug1992
+40	Castro	02jan1959	24feb2008
+41	Duvalier, Jean-Claude	22apr1971	07feb1986
+42	Balaguer	01jul1966	01jul1978
+42	Guzman Fernandez	01jul1978	04jul1982
+51	Manley	02mar1972	01nov1980
+52	Williams	31aug1962	29mar1981
+53	Barrow	18nov1966	08sep1976
+53	Adams	08oct1976	11mar1985
+70	Echeverria Alvarez	01dec1970	01dec1976
+70	Lopez Portillo	01dec1976	01dec1982
+80	Price	07apr1961	17dec1984
+90	Arana Osorio	01jul1970	01jul1974
+90	Laugerud Garcia	01jul1974	01jul1978
+90	Lucas Garcia	01jul1978	23mar1982
+91	Lopez Arellano	04dec1972	22apr1975
+91	Castro	22apr1975	07aug1978
+91	Paz Garcia	07aug1978	27jan1982
+92	Molina	01jul1972	01jul1977
+92	Romero Mena	01jul1977	15oct1979
+92	Majano Ramos	15oct1979	07dec1980
+93	Anastasio Somoza Debayle	01may1967	17jul1979
+93	Daniel Ortega	18jul1979	25apr1990
+94	Figueres Ferrer	08may1970	08may1974
+94	Quiros, Daniel	08may1974	08may1978
+94	Carazo Odio	08may1978	08may1982
+95	Torrijos Herrera	12oct1968	31jul1981
+100	Pastrana Borrero	07aug1970	07aug1974
+100	Lopez Michelsen	07aug1974	07aug1978
+100	Turbay	07aug1978	07aug1982
+101	Caldera Rodriguez	11mar1969	12mar1974
+101	Andres Perez	12mar1974	12mar1979
+101	Campins	12mar1979	02feb1984
+110	Burnham	26may1966	06aug1985
+115	Ferrier	25nov1975	13aug1980
+130	Rodriguez Lara	15feb1972	11jan1976
+130	Poveda Burbano	11jan1976	10aug1979
+130	Roldos Aquilers	10aug1979	24may1981
+135	Velasco Alvarado	03oct1968	29aug1975
+135	Morales Bermudez	30aug1975	28jul1980
+140	Medici	25oct1969	15mar1974
+140	Geisel	15mar1974	15mar1979
+140	Figueiredo	15mar1979	21mar1985
+145	Banzer Suarez	22aug1971	21jul1978
+145	Pereda Asbun	21jul1978	24nov1978
+145	Padilla Aranciba	24nov1978	08aug1979
+145	Guevara Arze	08aug1979	01nov1979
+145	Natusch Busch	01nov1979	16nov1979
+145	Lidia Gueiler Tejada	16nov1979	17jul1980
+150	Stroessner	11jul1954	03feb1989
+155	Allende	04nov1970	11sep1973
+155	Pinochet	11sep1973	11mar1990
+160	Lanusse	25mar1971	25may1973
+160	Campora	25may1973	13jul1973
+160	Lastiri	13jul1973	12oct1973
+160	Peron	12oct1973	01jul1974
+160	Peron, Isabel	01jul1974	29mar1976
+160	Videla	29mar1976	29mar1981
+165	Bordaberry	01mar1972	12jun1976
+165	Demichelli	12jun1976	01sep1976
+165	Mendez Manfredini	01sep1976	01sep1981
+200	Heath	19jun1970	04mar1974
+200	Wilson	04mar1974	05apr1976
+200	Callaghan	05apr1976	04may1979
+200	Thatcher	04may1979	28nov1990
+205	Lynch	10nov1966	14mar1973
+205	Cosgrave, L.	14mar1973	05jul1977
+205	Lynch	05jul1977	11dec1979
+205	Haughey	11dec1979	30jun1981
+210	Biesheuvel	06jul1971	11may1973
+210	den Uyl	11may1973	19dec1977
+210	van Agt	19dec1977	04nov1982
+211	Eyskens, G.	17jun1968	26jan1973
+211	Leburton	26jan1973	24apr1974
+211	Tindemans	25apr1974	20oct1978
+211	Vanden Boeynants	20oct1978	03apr1979
+211	Martens	03apr1979	06apr1981
+212	Werner	07mar1959	27may1974
+212	Thorn G.	15jun1974	19jul1979
+212	Werner	19jul1979	20jul1984
+220	Pompidou	20jun1969	02apr1974
+220	Poher	02apr1974	27may1974
+220	Giscard D'Estaing	27may1974	21may1981
+225	Bonvin	01jan1973	31dec1973
+225	Brugger	01jan1974	31dec1974
+225	Graber	01jan1975	31dec1975
+225	Gnagi	01jan1976	31dec1976
+225	Furgler	01jan1977	31dec1977
+225	Ritschard	01jan1978	31dec1978
+225	Hurlimann	01jan1979	31dec1979
+230	Franco	01apr1939	30oct1975
+230	Juan Carlos	01nov1975	08nov1975
+230	Arias Navarro	09nov1975	01jul1976
+230	Suarez Gonzalez	01jul1976	25feb1981
+235	Caetano	27sep1968	25apr1974
+235	Spinola	25apr1974	30sep1974
+235	Costa Gomes	30sep1974	23jul1976
+235	Eanes	23jul1976	09mar1986
+260	Brandt	22oct1969	06may1974
+260	Schmidt	16may1974	01oct1982
+265	Honecker	03may1971	18oct1989
+290	Gierek	20dec1970	06sep1980
+305	Kreisky	20apr1970	24may1983
+310	Kadar	04nov1956	22may1988
+315	Husak	28aug1968	17dec1989
+325	Andreotti	18feb1972	12jun1973
+325	Rumor	08jul1973	23nov1974
+325	Moro	23nov1974	30jul1976
+325	Andreotti	30jul1976	05aug1979
+325	Cossiga	05aug1979	18oct1980
+338	Mintoff	21jun1971	22dec1984
+339	Hoxha	29nov1944	11apr1985
+345	Tito	06mar1945	04may1980
+350	Papadopoulos	13dec1967	25nov1973
+350	Ionannides	25nov1973	24jul1974
+350	Karamanlis	24jul1974	09may1980
+352	Makarios	16aug1960	15jul1974
+352	Sampson	16jul1974	23jul1974
+352	Clerides	23jul1974	07dec1974
+352	Makarios	07dec1974	03aug1977
+352	Kyprianou	03aug1977	28feb1988
+355	Zhivkov	16apr1956	10nov1989
+360	Ceausescu	22mar1965	25dec1989
+365	Brezhnev	15oct1964	10nov1982
+375	Kekkonen	01mar1956	11sep1981
+380	Palme	14oct1969	20sep1976
+380	Falldin	04oct1976	18oct1978
+380	Ullsten	18oct1978	09oct1979
+380	Falldin	09oct1979	07oct1982
+385	Korvald	17oct1972	15oct1973
+385	Bratteli	15oct1973	09jan1976
+385	Nordli	09jan1976	04feb1981
+390	Jorgensen	05oct1972	19dec1973
+390	Hartling	19dec1973	29jan1975
+390	Jorgensen	13feb1975	10sep1982
+395	Johannesson	14jul1971	28aug1974
+395	Hallgrimsson	29aug1974	31aug1978
+395	Johannesson	31aug1978	15oct1979
+395	Groendal	15oct1979	08feb1980
+402	Pires	08jul1975	04apr1991
+404	Cabral	10sep1974	14nov1980
+411	Macias Nguema	12oct1968	03aug1979
+411	Nguema Mbasogo	03aug1979	31dec2015
+420	Jawara	18feb1965	22jul1994
+432	Traore	19nov1968	26mar1991
+433	Senghor	20aug1960	31dec1980
+434	Kerekou	27oct1972	04apr1991
+435	Ould Daddah	28nov1960	10jul1978
+435	Ould Mohamed Salek	10jul1978	06apr1979
+435	Ould Bouceif	06apr1979	27may1979
+435	Ould Sidi	27may1979	31may1979
+435	Ould Ahmed Louly	03jun1979	04jan1980
+436	Diori	03oct1960	15apr1974
+436	Kountche	17apr1974	10nov1987
+437	Houphouet-Boigny	07aug1960	07dec1993
+438	Toure	02oct1958	26mar1984
+439	Gerard Kango Ouedraogo	13jan1971	08feb1974
+439	Lamizana	08feb1974	25nov1980
+450	Tolbert	23jul1971	12apr1980
+451	Stevens	19apr1968	28nov1985
+452	Acheampong	13jan1972	05jul1978
+452	Akuffo	05jul1978	04jun1979
+452	Rawlings	05jun1979	24sep1979
+452	Limann	24sep1979	31dec1981
+461	Eyadema	14apr1967	05feb2005
+471	Ahidjo	01jan1960	06nov1982
+475	Gowon	29jul1966	29jul1975
+475	Ramat Mohammed	29jul1975	13feb1976
+475	Obasanjo	13feb1976	01oct1979
+475	Shagari	01oct1979	31dec1983
+481	Bongo	28nov1967	08jun2009
+482	Bokassa	01jan1966	21sep1979
+482	Dacko	21sep1979	01sep1981
+483	Tombalbaye	11aug1960	13apr1975
+483	Malloum	15apr1975	23mar1979
+483	Oueddei	23mar1979	07jun1982
+484	Ngouabi	01jan1969	18mar1977
+484	Opango	18mar1977	05feb1979
+484	Nguesso	08feb1979	20aug1992
+490	Mobutu	25nov1965	16may1997
+500	Amin	25jan1971	11apr1979
+500	Yusuf Lule	13apr1979	20jun1979
+500	Banaisa	20jun1979	12may1980
+501	Kenyatta	12dec1963	22aug1978
+501	Moi	22aug1978	30dec2002
+510	Nyerere	09nov1961	05nov1985
+516	Micombero	28nov1966	01nov1976
+516	Bagaza	09nov1976	03sep1987
+517	Kayibanda	26oct1961	05jul1973
+517	Habyarimana	05jul1973	06apr1994
+520	Siad Barre	21oct1969	26jan1991
+522	Gouled Aptidon	27jun1977	08may1999
+530	Selassie	05may1941	12sep1974
+530	Andom	12sep1974	23nov1974
+530	Banti	28nov1974	03feb1977
+530	Mengistu Marriam	11feb1977	21may1991
+540	Neto	11nov1975	10sep1979
+540	Dos Santos	10sep1979	31dec2015
+541	Machel	25jun1975	19oct1986
+551	Kaunda	24oct1964	02nov1991
+552	Smith	11nov1965	23may1979
+552	Muzorewa	29may1979	11dec1979
+553	Banda	06jul1964	21may1994
+560	Vorster	13sep1966	28sep1978
+560	Botha	28sep1978	18jan1989
+570	Jonathan	04oct1966	20jan1986
+571	Khama	30sep1966	13jul1980
+572	Subhuza II	06sep1968	21aug1982
+580	Ramanantsoa	12oct1972	05feb1975
+580	Ratsimandrava	05feb1975	11feb1975
+580	Gilles Andriamahazo	11feb1975	15jun1975
+580	Ratsiraka	15jun1975	27mar1993
+581	Abdallah	06jul1975	03aug1975
+581	Soilih	03aug1975	13may1978
+581	Bob Denard	13may1978	18dec1989
+590	Ramgoolam	12mar1968	16jun1982
+600	Hassan II	26feb1961	23jul1999
+615	Boumedienne	19jun1965	27dec1978
+615	Bitat	27dec1978	07feb1979
+615	Benjedid	07feb1979	11jan1992
+616	Ben Ali Bourguiba	25jul1957	07nov1987
+620	Qaddafi	01sep1969	23aug2011
+625	Nimeiri	22jul1971	06apr1985
+630	Mohammad Reza	19aug1953	16jan1979
+630	Ayatollah Khomeini	01feb1979	03jun1989
+640	Melen	22may1972	15apr1973
+640	Talu	15apr1973	25jan1974
+640	Ecevit	25jan1974	07nov1974
+640	Irmak	17nov1974	31mar1975
+640	Demirel	31mar1975	21jun1977
+640	Ecevit	21jun1977	21jul1977
+640	Demirel	21jul1977	21dec1977
+640	Ecevit	01jan1978	12nov1979
+640	Demirel	12nov1979	20sep1980
+645	Hassan Al-Bakr	17jul1968	16jul1979
+645	Saddam Hussein	16jul1979	09apr2003
+651	Sadat	28sep1970	06oct1981
+652	Al-Assad H.	22feb1971	10jun2000
+660	Franjieh	23sep1970	23sep1976
+660	Sarkis	23sep1976	23sep1982
+663	Hussein Ibn Talal El-Hashim	11aug1952	07feb1999
+666	Meir	17mar1969	03jun1974
+666	Rabin	03jun1974	08apr1977
+666	Peres	08apr1977	21jun1977
+666	Begin	21jun1977	10oct1983
+670	Faisal	02nov1964	25mar1975
+670	Khalid	25mar1975	13jun1982
+678	Al-Iryani	05nov1967	13jun1974
+678	Al-Hamadi	13jun1974	11oct1977
+678	Al-Ghashmi	11oct1977	24jun1978
+678	Saleh al-Hashidi	17jul1978	27feb2012
+680	Ali Rubayyi	24jun1969	26jun1978
+680	Ali Nassir Hassani	27jun1978	27dec1978
+680	Ismail	27dec1978	02apr1980
+690	Sabah As-Sabah	24nov1965	31dec1977
+690	Jabir As-Sabah	01jan1978	02aug1990
+692	Isa Ibn Al-Khalifah	15aug1971	06mar1999
+694	Khalifah Ath-Thani	22feb1972	27jun1995
+696	An-Nahayan	02dec1971	03nov2004
+698	Qabus Bin Said	23jul1970	31dec2015
+700	Mohammad Musa Shafiq	12dec1972	17jul1973
+700	Sardar Mohammad Daud Khan	17jul1973	27apr1978
+700	Taraki	30apr1978	27mar1979
+700	Amin	27mar1979	27dec1979
+700	Karmal	27dec1979	04may1986
+710	Mao Tse-Tung	01oct1949	09sep1976
+710	Hua Guofeng	07oct1976	10sep1980
+712	Tsedenbal	26jan1952	23aug1984
+713	Chiang Kai-shek	01mar1950	05apr1975
+713	Yen Chia-Kan	05apr1975	20may1978
+713	Chiang Ching-Kuo	20may1978	13jan1988
+731	Kim Il-Sung	09sep1948	08jul1994
+732	Hee Park	03jul1961	26oct1979
+732	Choi Kuy Hay	26oct1979	16aug1980
+740	Tanaka	06jul1972	09dec1974
+740	Miki	09dec1974	24dec1976
+740	Fukuda	24dec1976	07dec1978
+740	Ohira	07dec1978	12jun1980
+750	Gandhi, I.	24jan1966	22mar1977
+750	Desai	24mar1977	15jun1979
+750	Charan Singh	28jul1979	14jan1980
+760	Wangchuck, Jigme Singye	21jul1972	20jul1998
+770	Bhutto	20dec1971	05jul1977
+770	Zia	05jul1977	17aug1988
+771	Sheikh Mujib Rahman	13jan1972	15aug1975
+771	Moshtaque Ahmed	15aug1975	06nov1975
+771	Ziaur Rahman	06nov1975	30may1981
+775	Ne Win	02mar1962	25jul1988
+780	Bandaranaike, S	31may1970	23jul1977
+780	Jayewardene	23jul1977	02jan1989
+781	Nasir	12dec1957	11nov1978
+781	Maumoon Abdul Gayoom	11nov1978	11nov2008
+790	Birendra	31jan1972	09nov1990
+800	Thanon Kittakachorn	08dec1963	13oct1973
+800	Sanya	14oct1973	21feb1975
+800	Seni Pramoj	21feb1975	06mar1975
+800	Kukrot Pramoj	17mar1975	16apr1976
+800	Seni Pramoj	20apr1976	06oct1976
+800	Sangad	06oct1976	22oct1976
+800	Thanin Kraivichien	22oct1976	20oct1977
+800	Sangad	20oct1977	12nov1977
+800	Kriangsak	12nov1977	29feb1980
+811	Lon Nol	18mar1970	10apr1975
+811	Pol Pot	11apr1975	07jan1979
+811	Heng Samrin	07jan1979	14jan1985
+812	Souvanna Phouma	20apr1964	02dec1975
+812	Phomivan	02dec1975	25nov1992
+816	Le Duan	03sep1969	10jul1986
+817	Van Thieu	14jun1965	21apr1975
+817	Minh	28apr1975	30apr1975
+820	Razak	22sep1970	14jan1976
+820	Hussein Bin Onn	14jan1976	16jul1981
+830	Lee Kuan Yew	05jun1959	28nov1990
+835	Hassanal Bolkiah	04oct1967	31dec2015
+840	Marcos	30dec1965	25feb1986
+850	Suharto	12mar1966	21may1998
+900	Whitlam	05dec1972	11nov1975
+900	Fraser	11nov1975	11mar1983
+910	Somare	16sep1975	11mar1980
+920	Kirk	08dec1972	31aug1974
+920	Rowling	06sep1974	12dec1975
+920	Muldoon	12dec1975	26jul1984
+940	Kenilorea	07jul1978	31aug1981
+950	Mara	10oct1970	13apr1987

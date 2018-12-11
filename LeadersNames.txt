@@ -1,0 +1,330 @@
+Nixon
+Ford
+Carter
+Pierre Trudeau
+Clark
+Pindling
+Castro
+Duvalier, Jean-Claude
+Balaguer
+Guzman Fernandez
+Manley
+Williams
+Barrow
+Adams
+Echeverria Alvarez
+Lopez Portillo
+Price
+Arana Osorio
+Laugerud Garcia
+Lucas Garcia
+Lopez Arellano
+Castro
+Paz Garcia
+Molina
+Romero Mena
+Majano Ramos
+Anastasio Somoza Debayle
+Daniel Ortega
+Figueres Ferrer
+Quiros, Daniel
+Carazo Odio
+Torrijos Herrera
+Pastrana Borrero
+Lopez Michelsen
+Turbay
+Caldera Rodriguez
+Andres Perez
+Campins
+Burnham
+Ferrier
+Rodriguez Lara
+Poveda Burbano
+Roldos Aquilers
+Velasco Alvarado
+Morales Bermudez
+Medici
+Geisel
+Figueiredo
+Banzer Suarez
+Pereda Asbun
+Padilla Aranciba
+Guevara Arze
+Natusch Busch
+Lidia Gueiler Tejada
+Stroessner
+Allende
+Pinochet
+Lanusse
+Campora
+Lastiri
+Peron
+Peron, Isabel
+Videla
+Bordaberry
+Demichelli
+Mendez Manfredini
+Heath
+Wilson
+Callaghan
+Thatcher
+Lynch
+Cosgrave, L.
+Lynch
+Haughey
+Biesheuvel
+den Uyl
+van Agt
+Eyskens, G.
+Leburton
+Tindemans
+Vanden Boeynants
+Martens
+Werner
+Thorn G.
+Werner
+Pompidou
+Poher
+Giscard D'Estaing
+Bonvin
+Brugger
+Graber
+Gnagi
+Furgler
+Ritschard
+Hurlimann
+Franco
+Juan Carlos
+Arias Navarro
+Suarez Gonzalez
+Caetano
+Spinola
+Costa Gomes
+Eanes
+Brandt
+Schmidt
+Honecker
+Gierek
+Kreisky
+Kadar
+Husak
+Andreotti
+Rumor
+Moro
+Andreotti
+Cossiga
+Mintoff
+Hoxha
+Tito
+Papadopoulos
+Ionannides
+Karamanlis
+Makarios
+Sampson
+Clerides
+Makarios
+Kyprianou
+Zhivkov
+Ceausescu
+Brezhnev
+Kekkonen
+Palme
+Falldin
+Ullsten
+Falldin
+Korvald
+Bratteli
+Nordli
+Jorgensen
+Hartling
+Jorgensen
+Johannesson
+Hallgrimsson
+Johannesson
+Groendal
+Pires
+Cabral
+Macias Nguema
+Nguema Mbasogo
+Jawara
+Traore
+Senghor
+Kerekou
+Ould Daddah
+Ould Mohamed Salek
+Ould Bouceif
+Ould Sidi
+Ould Ahmed Louly
+Diori
+Kountche
+Houphouet-Boigny
+Toure
+Gerard Kango Ouedraogo
+Lamizana
+Tolbert
+Stevens
+Acheampong
+Akuffo
+Rawlings
+Limann
+Eyadema
+Ahidjo
+Gowon
+Ramat Mohammed
+Obasanjo
+Shagari
+Bongo
+Bokassa
+Dacko
+Tombalbaye
+Malloum
+Oueddei
+Ngouabi
+Opango
+Nguesso
+Mobutu
+Amin
+Yusuf Lule
+Banaisa
+Kenyatta
+Moi
+Nyerere
+Micombero
+Bagaza
+Kayibanda
+Habyarimana
+Siad Barre
+Gouled Aptidon
+Selassie
+Andom
+Banti
+Mengistu Marriam
+Neto
+Dos Santos
+Machel
+Kaunda
+Smith
+Muzorewa
+Banda
+Vorster
+Botha
+Jonathan
+Khama
+Subhuza II
+Ramanantsoa
+Ratsimandrava
+Gilles Andriamahazo
+Ratsiraka
+Abdallah
+Soilih
+Bob Denard
+Ramgoolam
+Hassan II
+Boumedienne
+Bitat
+Benjedid
+Ben Ali Bourguiba
+Qaddafi
+Nimeiri
+Mohammad Reza
+Ayatollah Khomeini
+Melen
+Talu
+Ecevit
+Irmak
+Demirel
+Ecevit
+Demirel
+Ecevit
+Demirel
+Hassan Al-Bakr
+Saddam Hussein
+Sadat
+Al-Assad H.
+Franjieh
+Sarkis
+Hussein Ibn Talal El-Hashim
+Meir
+Rabin
+Peres
+Begin
+Faisal
+Khalid
+Al-Iryani
+Al-Hamadi
+Al-Ghashmi
+Saleh al-Hashidi
+Ali Rubayyi
+Ali Nassir Hassani
+Ismail
+Sabah As-Sabah
+Jabir As-Sabah
+Isa Ibn Al-Khalifah
+Khalifah Ath-Thani
+An-Nahayan
+Qabus Bin Said
+Mohammad Musa Shafiq
+Sardar Mohammad Daud Khan
+Taraki
+Amin
+Karmal
+Mao Tse-Tung
+Hua Guofeng
+Tsedenbal
+Chiang Kai-shek
+Yen Chia-Kan
+Chiang Ching-Kuo
+Kim Il-Sung
+Hee Park
+Choi Kuy Hay
+Tanaka
+Miki
+Fukuda
+Ohira
+Gandhi, I.
+Desai
+Charan Singh
+Wangchuck, Jigme Singye
+Bhutto
+Zia
+Sheikh Mujib Rahman
+Moshtaque Ahmed
+Ziaur Rahman
+Ne Win
+Bandaranaike, S
+Jayewardene
+Nasir
+Maumoon Abdul Gayoom
+Birendra
+Thanon Kittakachorn
+Sanya
+Seni Pramoj
+Kukrot Pramoj
+Seni Pramoj
+Sangad
+Thanin Kraivichien
+Sangad
+Kriangsak
+Lon Nol
+Pol Pot
+Heng Samrin
+Souvanna Phouma
+Phomivan
+Le Duan
+Van Thieu
+Minh
+Razak
+Hussein Bin Onn
+Lee Kuan Yew
+Hassanal Bolkiah
+Marcos
+Suharto
+Whitlam
+Fraser
+Somare
+Kirk
+Rowling
+Muldoon
+Kenilorea
+Mara
+Shah
